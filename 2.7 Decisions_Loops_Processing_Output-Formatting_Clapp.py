@@ -34,7 +34,7 @@ count = 0
 
 while count < 5:
     x += 1
-    print(f"x incremented by 1 is {x}")
+    print(f"{number} incremented by 1 is {x}")
     count += 1
 
 #For loop that runs 5 times
@@ -43,4 +43,4 @@ x = number
 
 for i in range(5):
     x += 1
-    print(f"x incremented by 1 is {x}")
+    print(f"{number} incremented by 1 is {x}")
